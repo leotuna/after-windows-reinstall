@@ -15,3 +15,4 @@ choco install winrar -fy
 choco install yarn -fy
 choco install microsoft-windows-terminal -fy
 choco install docker-desktop -fy
+choco install dotnet-sdk -fy
