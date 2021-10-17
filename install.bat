@@ -18,6 +18,6 @@ choco install spotify -fy
 choco install vlc -fy 
 choco install vscode -fy 
 choco install winrar -fy 
-choco install yarn  
+choco install yarn -fy
 choco install microsoft-windows-terminal -fy
 choco install docker-desktop -fy
