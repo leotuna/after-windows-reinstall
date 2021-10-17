@@ -1,10 +1,4 @@
-:: Chocolatey install script from earlier
-
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-
-
-:: Install all the packages
-:: -y confirm yes for any prompt during the install process ﻿
 
 choco install adobereader -fy 
 choco install git -fy 
