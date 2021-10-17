@@ -20,3 +20,4 @@ choco install vscode -fy
 choco install winrar -fy 
 choco install yarn  
 choco install microsoft-windows-terminal -fy
+choco install docker-desktop -fy
