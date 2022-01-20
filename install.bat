@@ -5,7 +5,7 @@ choco install git -fy
 choco install GoogleChrome -fy
 choco install firefox -fy
 choco install googledrive -fy 
-choco install nodejs -fy-lts
+choco install nodejs-lts -fy
 choco install postman -fy 
 choco install python -fy 
 choco install spotify -fy 
@@ -16,3 +16,4 @@ choco install yarn -fy
 choco install microsoft-windows-terminal -fy
 choco install docker-desktop -fy
 choco install dotnet-sdk -fy
+choco install insomnia-rest-api-client -fy
