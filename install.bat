@@ -13,4 +13,4 @@ choco install yarn -fy
 choco install microsoft-windows-terminal -fy
 choco install docker-desktop -fy
 choco install mailspring -fy
-choco install googledrive -fy
+choco install firefox -fy
